@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 this is first line
 this is second line
-=======
-this is test from alhobab
->>>>>>> 6461888a482083a524637b83757fe9fc98295f19
+
